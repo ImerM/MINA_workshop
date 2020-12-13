@@ -1,0 +1,88 @@
+[
+  {
+    "ID": 3,
+    "Ime": "Joe",
+    "Prezime": "Johnson",
+    "Pozicija": "CEO",
+    "Plata": "5500$",
+    "radna_historija":
+        [
+            {
+                "uposlenik_id":"3",
+                "pozicija":"CTO",
+                "start_date":"11-10-2000",
+                "end_date":"11-10-2005"
+            },
+            {
+                "uposlenik_id":"3",
+                "pozicija":"CEO",
+                "start_date":"12-10-2005",
+                "end_date":"null"
+            }        
+        ]
+  },
+  {
+    "ID": 4,
+    "Ime": "Mark",
+    "Prezime": "Zuckerberg",
+    "Pozicija": "CTO",
+    "Plata": "5400$",
+    "radna_historija":
+        [
+            {
+                "uposlenik_id":"4",
+                "pozicija":"CTO",
+                "start_date":"11-10-2000",
+                "end_date":"null"
+            }        
+        ]
+  },
+  {
+    "ID": 7,
+    "Ime": "Elon",
+    "Prezime": "Mask",
+    "Pozicija": "Janitor",
+    "Plata": "4220$",
+    "radna_historija":
+    [       {
+                "uposlenik_id":"7",
+                "pozicija":"CEO",
+                "start_date":"11-10-2000",
+                "end_date":"11-10-2005"
+            },
+            {
+                "uposlenik_id":"7",
+                "pozicija":"Cook",
+                "start_date":"12-10-2005",
+                "end_date":"13-10-2005"
+            } ,
+            {
+                "uposlenik_id":"7",
+                "pozicija":"Janitor",
+                "start_date":"14-10-2005",
+                "end_date":"null"
+            }        
+        ]
+  },
+  {
+    "ID": 9,
+    "Ime": "Bill",
+    "Prezime": "Doors",
+    "Pozicija": "Driver",
+    "Plata": "3700$"
+  },
+  {
+    "ID": 12,
+    "Ime": "Richard",
+    "Prezime": "Slim",
+    "Pozicija": "Cook",
+    "Plata": "4000$"
+  },
+  {
+    "ID": 17,
+    "Ime": "Ricardo",
+    "Prezime": "Gordo",
+    "Pozicija": "Secretary",
+    "Plata": "2000$"
+  }
+]
